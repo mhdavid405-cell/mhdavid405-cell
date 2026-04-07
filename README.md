@@ -1,23 +1,23 @@
 # 👋 Hola, soy David
 
-💻 Backend Developer enfocado en Python & Flask  
-🏗️ Arquitectura Hexagonal y buenas prácticas (SOLID)  
+💻 **Backend Developer** enfocado en **Python & Flask**  
+🏗️ Arquitectura **Hexagonal** y buenas prácticas (**SOLID**)  
 📦 Interés en producto: definición de problemas, roadmap y user stories  
-🚀 Buscando oportunidad como Backend Developer Jr / Becario  
+🚀 Buscando oportunidad como **Backend Developer Jr / Becario**  
 
-💡 Desarrollo soluciones reales con enfoque en escalabilidad y mantenibilidad  
+💡 Desarrollo soluciones reales con enfoque en **escalabilidad, mantenibilidad y separación de responsabilidades**
 
 ---
 
 ## 🛠️ Tecnologías
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Flask](https://img.shields.io/badge/Flask-Backend-black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)
-![React](https://img.shields.io/badge/React-JS-blue)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Backend-black?logo=flask)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-JS-blue?logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git&logoColor=white)
 
 ---
 
@@ -52,7 +52,6 @@
 ---
 
 ## 🎯 Enfoque actual
-
 - Desarrollo backend escalable  
 - Diseño y consumo de APIs REST  
 - Arquitectura limpia, mantenible y desacoplada  
@@ -60,7 +59,6 @@
 ---
 
 ## 📈 Actualmente aprendiendo
-
 - Diseño de software y patrones de diseño avanzados  
 - APIs REST y buenas prácticas  
 - Docker (orquestación básica)  
@@ -69,7 +67,6 @@
 ---
 
 ## 🧠 Intereses
-
 - Backend Engineering  
 - Software Architecture  
 - Product Development  
@@ -77,14 +74,13 @@
 ---
 
 ## ⚡ Lo que me diferencia
-
 - Enfoque en arquitectura desde etapas tempranas  
 - Capacidad de traducir ideas de producto a soluciones técnicas  
+- Experiencia construyendo sistemas reales y funcionales  
 - Código limpio y orientado a mantenibilidad  
 
 ---
 
 ## 📫 Contacto
-
 📧 [mhdavid405@gmail.com](mailto:mhdavid405@gmail.com)  
 🐙 [GitHub](https://github.com/mhdavid405-cell)
