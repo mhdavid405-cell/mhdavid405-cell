@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Hola, soy David
 
-<!--
-**mhdavid405-cell/mhdavid405-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer enfocado en Python & Flask  
+🏗️ Arquitectura Hexagonal y buenas prácticas (SOLID)  
+📦 Interés en producto: definición de problemas, roadmap y user stories  
+🚀 Buscando oportunidad como Backend Developer Jr / Becario  
 
-Here are some ideas to get you started:
+💡 Desarrollo soluciones reales con enfoque en escalabilidad y mantenibilidad  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Flask](https://img.shields.io/badge/Flask-Backend-black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)
+![React](https://img.shields.io/badge/React-JS-blue)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+
+---
+
+## 📌 Proyectos destacados
+
+### 🏋️ SmartGym – Sistema de gestión de gimnasio
+[🔗 Ver repositorio](https://github.com/mhdavid405-cell/smartgym-hexagonal)
+
+- Backend modular basado en arquitectura hexagonal enfocado en escalabilidad  
+- Gestión completa de clientes, rutinas y seguimiento de progreso  
+- Definición de producto: problema, usuarios y roadmap (`PRODUCT.md`)  
+- Despliegue con Docker + SQL Server  
+
+---
+
+### 📚 Learning Hub – Plataforma educativa
+[🔗 Ver repositorio](https://github.com/mhdavid405-cell/learning-hub)
+
+- Frontend con React, Firebase y Redux  
+- Autenticación, gestión de cursos y progreso del usuario  
+- Manejo de estado centralizado  
+
+---
+
+### 🏥 Consultorio Hexagonal – Sistema médico
+[🔗 Ver repositorio](https://github.com/mhdavid405-cell/consultorio-hexagonal)
+
+- Migración de código spaghetti a arquitectura hexagonal  
+- Aplicación de principios SOLID  
+- Mejor separación de capas y mantenibilidad  
+
+---
+
+## 🎯 Enfoque actual
+
+- Desarrollo backend escalable  
+- Diseño y consumo de APIs REST  
+- Arquitectura limpia, mantenible y desacoplada  
+
+---
+
+## 📈 Actualmente aprendiendo
+
+- Diseño de software y patrones de diseño avanzados  
+- APIs REST y buenas prácticas  
+- Docker (orquestación básica)  
+- Gestión de productos tecnológicos  
+
+---
+
+## 🧠 Intereses
+
+- Backend Engineering  
+- Software Architecture  
+- Product Development  
+
+---
+
+## ⚡ Lo que me diferencia
+
+- Enfoque en arquitectura desde etapas tempranas  
+- Capacidad de traducir ideas de producto a soluciones técnicas  
+- Código limpio y orientado a mantenibilidad  
+
+---
+
+## 📫 Contacto
+
+📧 [mhdavid405@gmail.com](mailto:mhdavid405@gmail.com)  
+🐙 [GitHub](https://github.com/mhdavid405-cell)
